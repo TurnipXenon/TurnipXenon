@@ -4,7 +4,7 @@
 
 ~🌱 I’m currently learning more game dev stuff aside from coding when I'm not busy 😫~
 
-📫 I respond fastest at turnipxenon@gmail.com but manuba@ualberta.ca is fine too
+📫 I respond fastest at manuba@ualberta.ca
 
 😻 Also check out games I made with friends at [turnipxenon.itch.io](https://turnipxenon.itch.io/).
 
