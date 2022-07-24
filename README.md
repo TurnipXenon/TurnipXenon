@@ -4,7 +4,7 @@
 
 ~🌱 I’m currently learning more game dev stuff aside from coding when I'm not busy 😫~
 
-📫 Contact me at turnipxenon@gmail.com or through Discord at `turnipxenon (he/him)#3637`
+📫 Contact me at turnipxenon@gmail.com, at my spam Twitter account [@turnipxenonspam](https://twitter.com/turnipxenonspam/) or through Discord at `turnipxenon (he/him)#3637`
 
 😻 Also check out games I made with friends at [turnipxenon.itch.io](https://turnipxenon.itch.io/).
 
