@@ -4,6 +4,8 @@
 
 - I recommend our game HepCat on [itch](https://just-a-phantom.itch.io/hep-cat) if you like cats and rhythm games. The source code is on [bitbucket](https://bitbucket.org/egginchicken/hep-cat/src/master/) ~wish it was on Github instead lol~.
 
+🏃‍♂️ Currently working on a random project applying everything I've learned from work, and facing my greatest nemesis (infrastructure). It's a full stack app made with: Porkbun/Route53 (DNS), AWS CDK (code as infrastructure), and Typescript NextJS (backend + frontend). More details at: [github.com/TurnipXenon/turnip-react](https://github.com/TurnipXenon/turnip-react).
+
 ✒ I've been trying out making a blog at [turnipxenon.com](https://turnipxenon.com/)
 - I have written my design docs and technical specs at [notion.so/turnip-xenon](https://www.notion.so/turnip-xenon/34254dc20f564e3eb1ff8fa107789dfa?v=9a4a186edfbd4df0990a7df620cb55cb).
 - If you're interested more on the coding stuff I do, I'll try write some interesting cases I've encountered at [turnipxenon.com/blogs/coding-chagrin](https://turnipxenon.com/blogs/coding-chagrin/)
