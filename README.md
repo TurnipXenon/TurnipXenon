@@ -4,7 +4,7 @@
 
 - I recommend our game HepCat on [itch](https://just-a-phantom.itch.io/hep-cat) if you like cats and rhythm games. The source code is on [bitbucket](https://bitbucket.org/egginchicken/hep-cat/src/master/) ~wish it was on Github instead lol~.
 
-🏃‍♂️ Currently working on a rhythm game library in Godot, just to brush up on my game dev programming, since it's been a while I've finished a game. It uses C#, .Net, Godot, and xUnit: [github.com/TurnipXenon/Yam/](https://github.com/TurnipXenon/Yam/)
+🏃‍♂️ Currently working on a rhythm game library in Godot, just to brush up on my game dev programming, since it's been a while I've finished a game. It uses C#, .Net, Godot, and xUnit. Code is at [github.com/TurnipXenon/Yam/](https://github.com/TurnipXenon/Yam/), and the tech design notes at [turnip-xenon.notion.site/Rhythm-Game-Tech-Spec](https://turnip-xenon.notion.site/Rhythm-Game-Tech-Spec-653f0275f92e46108561aac5c887c0a7).
 
 ✒ I've been trying out making a blog at [turnipxenon.com](https://turnipxenon.com/)
 - I have written my design docs and technical specs at [notion.so/turnip-xenon](https://www.notion.so/turnip-xenon/34254dc20f564e3eb1ff8fa107789dfa?v=9a4a186edfbd4df0990a7df620cb55cb).
